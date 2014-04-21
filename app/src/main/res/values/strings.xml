@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Episode3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_friends">Friends</string>
+    <string name="tab_all">All</string>
+    <string name="dummy_moniker">Krista</string>
+
+    <string name="dummy_text_friends">(Friends)Some random text only content. We\'ll extend the models later on to add more post types.</string>
+    <string name="dummy_text_all">(All)Some random text only content. We\'ll extend the models later on to add more post types.</string>
+    <string name="dummy_ts">3d</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

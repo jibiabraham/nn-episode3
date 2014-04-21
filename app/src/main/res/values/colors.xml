@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="post_background_normal">#fff</color>
+    <color name="post_background_pressed">#992416</color>
+    <color name="post_divider">#272727</color>
+</resources>
